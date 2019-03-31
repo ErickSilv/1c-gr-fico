@@ -1,0 +1,10 @@
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\bin\Debug\Calcular Media.exe.config
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\bin\Debug\Calcular Media.exe
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\bin\Debug\Calcular Media.pdb
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular Media.csprojAssemblyReference.cache
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular_Media.Calcula2Notas.resources
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular_Media.Properties.Resources.resources
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular Media.csproj.GenerateResource.cache
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular Media.csproj.CoreCompileInputs.cache
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular Media.exe
+C:\Users\Aline\Desktop\ETEC DES. SISTEMAS\LPA -\Calcular Media\Calcular Media\obj\Debug\Calcular Media.pdb
